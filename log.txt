@@ -1,0 +1,2 @@
+﻿Ошибка в строке 4: The input string 'сорок' was not in a correct format.
+Ошибка в строке 8: Недостаточно данных в строке.

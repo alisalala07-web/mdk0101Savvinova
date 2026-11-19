@@ -1,0 +1,15 @@
+/Users/savvinovaalisa/Desktop/prrrr/bin/Debug/net9.0/prrrr
+/Users/savvinovaalisa/Desktop/prrrr/bin/Debug/net9.0/prrrr.deps.json
+/Users/savvinovaalisa/Desktop/prrrr/bin/Debug/net9.0/prrrr.runtimeconfig.json
+/Users/savvinovaalisa/Desktop/prrrr/bin/Debug/net9.0/prrrr.dll
+/Users/savvinovaalisa/Desktop/prrrr/bin/Debug/net9.0/prrrr.pdb
+/Users/savvinovaalisa/Desktop/prrrr/obj/Debug/net9.0/prrrr.GeneratedMSBuildEditorConfig.editorconfig
+/Users/savvinovaalisa/Desktop/prrrr/obj/Debug/net9.0/prrrr.AssemblyInfoInputs.cache
+/Users/savvinovaalisa/Desktop/prrrr/obj/Debug/net9.0/prrrr.AssemblyInfo.cs
+/Users/savvinovaalisa/Desktop/prrrr/obj/Debug/net9.0/prrrr.csproj.CoreCompileInputs.cache
+/Users/savvinovaalisa/Desktop/prrrr/obj/Debug/net9.0/prrrr.sourcelink.json
+/Users/savvinovaalisa/Desktop/prrrr/obj/Debug/net9.0/prrrr.dll
+/Users/savvinovaalisa/Desktop/prrrr/obj/Debug/net9.0/refint/prrrr.dll
+/Users/savvinovaalisa/Desktop/prrrr/obj/Debug/net9.0/prrrr.pdb
+/Users/savvinovaalisa/Desktop/prrrr/obj/Debug/net9.0/prrrr.genruntimeconfig.cache
+/Users/savvinovaalisa/Desktop/prrrr/obj/Debug/net9.0/ref/prrrr.dll
